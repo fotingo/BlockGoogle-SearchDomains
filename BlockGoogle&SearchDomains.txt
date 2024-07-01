@@ -224,3 +224,4 @@
 127.0.0.1 yep.com
 127.0.0.1 www.perplexity.ai
 127.0.0.1 www.naver.com
+*.yandex.ee
