@@ -261,3 +261,11 @@
 127.0.0.1 yep.com
 127.0.0.1 perplexity.ai
 127.0.0.1 naver.com
+127.0.0.1 gibiru.com
+127.0.0.1 www.gibiru.com
+127.0.0.1 komo.ai
+127.0.0.1 www.komo.ai
+127.0.0.1 search.givewater.com
+127.0.0.1 presearch.com
+127.0.0.1 www.goodsearch.com
+127.0.0.1 goodsearch.com
