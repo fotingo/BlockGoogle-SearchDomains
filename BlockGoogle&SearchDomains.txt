@@ -265,3 +265,5 @@
 127.0.0.1 presearch.com
 127.0.0.1 www.goodsearch.com
 127.0.0.1 goodsearch.com
+^https:\/\/doh\.cleanbrowsing\.org\/doh\/family-filter\?.*[^[\n]]*$
+^https:\/\/doh\.cleanbrowsing\.org\/doh\/family-filter\?.*$
