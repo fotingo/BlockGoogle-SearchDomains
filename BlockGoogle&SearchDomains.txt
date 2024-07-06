@@ -256,4 +256,3 @@ yandex.tm
 yandex.uz
 yep.com
 you.com
-(\.|^)images\.search\.yahoo\.com$
