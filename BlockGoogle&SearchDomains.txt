@@ -260,3 +260,4 @@ search.yahoo.com
 images.search.yahoo.com
 ds-global3.l7.search.ystg1.b.yahoo.com
 pixabay.com
+www.pixabay.com
